@@ -32,7 +32,7 @@
 
 ## 0x04 技能背景
 * [个人github空间](https://github.com/timmycheng/)
-* 业余时间做的几个小程序
+* 小程序
     * [基于百度mapAPI的地址自定义抓取](http://timmycheng.cn/projects/bmap/) - javascript
     * [一种快速存取IP地址的方法的实现](http://timmycheng.cn/projects/iplooksup/) - mysql,php
     * 公司OA通讯录爬虫 - python
@@ -44,6 +44,10 @@
 * 浙江省第二届信息安全管理员技能竞赛团体第一名 - 2016
 * 浙江省第三届信息安全管理员技能竞赛团体第二名 - 2017
 * 浙江移动大数据挖掘及应用技能竞赛二等奖 - 2017
+
+## 0x06 培训情况
+* 网络安全攻防技能培训 - 安恒
+* 安全技能实战培训 - 君立华域、绿盟
 
 
 
